@@ -1,3 +1,11 @@
+# Index Github Pages
+- Setup
+https://winstonbarlowg.github.io/kpis-web-analytics/0-initial-setup/index.html
+- Event Tracking
+https://winstonbarlowg.github.io/kpis-web-analytics/1-event-tracking/index.html
+- Google Tag Manager
+https://winstonbarlowg.github.io/kpis-web-analytics/2-google-tag-manager/index.html
+
 # About
 
 This repository should serve as a **template and playground** to get started with web tracking and analysis with Google Analytics and Google Tag Manager.
