@@ -362,7 +362,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="pricing">
 						<div class="pricing__switcher switcher">
 							<div class="switcher__buttons">
-								<div class="switcher__button switcher__button--enabled">Monthly</div>
+								<div class="switcher__button switcher__button--enabled"
+								onclick="dataLayer.push({
+												'event': 'planSwitchMonthly'
+												'visitorType': 'mid-value'
+								})"
+								>Monthly</div>
 								<div class="switcher__button"
 								onclick="dataLayer.push({
 												'event': 'planSwitchYearly', 
